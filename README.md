@@ -174,6 +174,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 - 📚 Améliorer la documentation
 - 🔄 Soumettre des pull requests
 
-## 📄 Licence
+## 👥 Auteurs
 
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+- Benjamin Jaccob - *Développeur initial* <br><br>
+[![Atelier Digital VisiCraft](https://img.shields.io/badge/Atelier%20Digital-VisiCraft-orange?style=for-the-badge&logo=github&logoColor=white)](https://visicraft.fr)
